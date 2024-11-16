@@ -1,6 +1,9 @@
 # Linux-IPC-Message-Queues
 Linux IPC-Message Queues
 
+## Name : mohammed ibrahim mn 
+## Roll No : 212223100034
+
 # AIM:
 To write a C program that receives a message from message queue and display them
 
